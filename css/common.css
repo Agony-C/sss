@@ -1,0 +1,23 @@
+@charset "utf-8";
+body,ul,h1,h2,h3,h4,h5,h6,p,dl,dt,dd{margin: 0;padding: 0;}
+img{vertical-align: top;}
+a{text-decoration: none;color: #000;}
+.clearfix:after,.clearfix:before{content: "";display: table;}
+.clearfix:after{clear: both;}
+.clearfix{*zoom:1;}                       
+textarea{resize: none; /*右下角小尾巴*/}
+em{font-style: normal;}
+
+.gWidth{
+	width: 999px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+/*body,ul,ol,h1,h2,h3,h4,h5,h6,p{margin: 0;padding: 0;}
+ul,ol{list-style: none;}
+img{vertical-align: top;}
+a{text-decoration: none;}
+.clearfix:after{content: "";display: block;clear: both;}*/
+
+            
